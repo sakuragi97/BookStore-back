@@ -20,7 +20,7 @@ public class Book {
 
     @Column(length = 10000)
     @NotNull
-    @Size(min = 1, max = 1000)
+    @Size(min = 1, max = 10000)
     private String description;
 
 
