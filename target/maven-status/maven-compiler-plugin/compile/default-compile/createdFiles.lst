@@ -1,0 +1,7 @@
+com\iddlo\bookstore\model\Book.class
+com\iddlo\bookstore\util\NumberGenerator.class
+com\iddlo\bookstore\util\TextUtil.class
+com\iddlo\bookstore\model\Language.class
+com\iddlo\bookstore\repository\BookRepositoryTest.class
+com\iddlo\bookstore\util\IsbnGenerator.class
+com\iddlo\bookstore\repository\BookRepository.class
